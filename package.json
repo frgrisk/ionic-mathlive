@@ -1,0 +1,31 @@
+{
+  "name": "ionic-mathlive",
+  "version": "1.0.0",
+  "description": "A Ionic-mathlive math.",
+  "author": "Mathquizily [Edin adilagic]",
+  "license": "MIT",
+  "homepage": "https://github.com/mathquizily/ionic-mathlive#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathquizily/ionic-mathlive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mathquizily/ionic-mathlive/issues"
+  },
+  "keywords": [
+    "Ionic 5",
+    "Angular",
+    "ionic-mathlive"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "@angular/forms": "^8.2.14",
+    "@ionic/angular": "^5.1.1",
+    "mathlive": "^0.35.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

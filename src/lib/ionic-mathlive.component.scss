@@ -1,0 +1,76 @@
+
+  #ML__keyboard {
+    position: absolute;
+    left: 0;
+    padding-top: 5px;
+    width: 100vw;
+    z-index: 3;
+    -webkit-transition: 0.28s cubic-bezier(0, 0, 0.2, 1);
+    transition: 0.28s cubic-bezier(0, 0, 0.2, 1);
+    bottom: -267px;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-backdrop-filter: grayscale(50%);
+    backdrop-filter: grayscale(50%);
+    background-color: rgba(209, 213, 217, 0.9);
+    border: 1px solid #ddd;
+    font-family: -apple-system,BlinkMacSystemFont,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Droid Sans,Helvetica Neue,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    text-shadow: none;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -ms-touch-action: none;
+    touch-action: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+  #ML__keyboard div.alternate-keys {
+   
+    -ms-flex-direction: row;
+    -ms-flex-line-pack: center;
+    -ms-flex-pack: center;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: center;
+    -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    -webkit-transition: none;
+    -webkit-align-content: center;
+    align-content: center;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-justify-content: center;
+    justify-content: center;
+    max-width: 50vw;
+    position: unset;
+    text-align: center;
+    transition: none;
+    visibility: hidden;
+    z-index: 101;
+}
+  .mathfield {
+
+  width:60vw;
+      height: 10vh;
+     
+                border: 1px solid #ddd;
+                padding:5px;
+                
+                margin: auto;
+                border-radius:5px;
+                background-color: #eeeeee;
+            }
+
