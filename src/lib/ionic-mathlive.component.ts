@@ -4,8 +4,8 @@ import * as MathLive from 'mathlive';
 declare var length;
 
 @Component({
-
-  selector: 'lib-ionic-mathlive',
+// tslint:disable-next-line
+  selector: 'ionic-mathlive',
   templateUrl: './ionic-mathlive.component.html',
   styleUrls: ['./ionic-mathlive.component.scss'],
   providers: [
@@ -76,7 +76,7 @@ export class IonMathliveComponent implements OnInit, ControlValueAccessor {
   }
 
  public writeValue = (mathfield: any) => {
-    this.answer = mathfield.latex();
+    this.answer = mathfield.$text();
 
 
     this.onValueChange.emit(this.answer);
