@@ -15,7 +15,10 @@
   "keywords": [
     "Ionic 5",
     "Angular",
-    "ionic-mathlive"
+    "ionic-mathlive",
+    "math-editor",
+    "ionic/angular",
+    "math"
   ],
   "peerDependencies": {
     "@angular/common": "^8.2.14",

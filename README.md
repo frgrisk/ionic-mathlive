@@ -1,10 +1,10 @@
 <h1 align="center">ionic-mathlive</h1>
 <p>
-  <img src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-1.0.2-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/mathquizily/ionic-mathlive#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/RodainaMohamed/ionic-rating/graphs/commit-activity">
+  <a href="https://github.com/mathquizily/ionic-mathlive/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
   <a href="https://github.com/mathquizily/ionic-mathlive/blob/master/LICENSE">
