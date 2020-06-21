@@ -1,6 +1,6 @@
 {
   "name": "ionic-mathlive",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Ionic-mathlive math.",
   "author": "Mathquizily [Edin adilagic]",
   "license": "MIT",
@@ -21,9 +21,9 @@
     "math"
   ],
   "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14",
-    "@angular/forms": "^8.2.14",
+    "@angular/common": "^9.1.6",
+    "@angular/core": "^9.1.6",
+    "@angular/forms": "^9.1.6",
     "@ionic/angular": "^5.1.1",
     "mathlive": "^0.35.1"
   },
