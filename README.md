@@ -12,9 +12,9 @@
   </a>
 </p>
 
-> A ionic-mathlive).
+> A ionic-mathlive.
 
-<!-- ### 🏠 [Homepage](https://github.com/mathquizily/ionic-mathlive) -->
+ ### 🏠 [Homepage](https://mathquizily.github.io/ionic-mathlive/) 
 
 ## 📝 Table of Contents
 
